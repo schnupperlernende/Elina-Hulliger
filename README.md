@@ -40,6 +40,10 @@ rm: you need it to remove something, you just have to enter the file name.
 ```bash
 $ rm Test.txt
 ```
-###Challange:
+### Challange:
 
 I had to search for the letter in the documents using `cd` and `ls`. Then I had to use `ls -a` to find a hidden file, which then gave me the next letter. For the fourth character I had to use the command `ls -l` to find out how big the file is in bytes, after I found out how many bytes it was I had to find out the letter in the `ASCII table`. Then I had to use `less` to see the text of a file.
+
+I had to create a new file next and I had to copy two things out of it. I then had to paste the two things together into a new file.
+
+I also learned :To remove an empty directory you can use `rmdir`, if it is not empty you can use the command `rm -r `to delete everything in it.  To find the difference between two files you can type less and then the names of the files.
