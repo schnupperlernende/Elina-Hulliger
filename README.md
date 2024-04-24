@@ -47,3 +47,5 @@ I had to search for the letter in the documents using `cd` and `ls`. Then I had 
 I had to create a new file next and I had to copy two things out of it. I then had to paste the two things together into a new file.
 
 I also learned :To remove an empty directory you can use `rmdir`, if it is not empty you can use the command `rm -r `to delete everything in it.  To find the difference between two files you can type less and then the names of the files.
+
+As part of the challenge, we also dealt with the compression of files. For example with `unzip <filename>`, tar `-xf <filename>` and `gunzip <filename>`.
