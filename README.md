@@ -37,6 +37,8 @@ $ cat file
 $ nano Test.txt
 ```
 rm: you need it to remove something, you just have to enter the file name.
+```bash
+$ rm Test.txt
+```
 
-
-
+I had to search for the letter in the documents using `cd` and `ls`. Then I had to use `ls -a` to find a hidden file, which then gave me the next letter. For the fourth character I had to use the command `ls -l` to find out how big the file is in bytes, after I found out how many bytes it was I had to find out the letter in the `ASCII table`. Then I had to use `less` to see the text of a file.
